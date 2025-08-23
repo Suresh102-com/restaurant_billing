@@ -38,3 +38,4 @@ Integrate real payment gateway (Razorpay/Stripe/Paytm).
 
 Multi-user login support.
 
+![image alt](https://github.com/Suresh102-com/restaurant_billing/blob/d049d4998ab13198e4e25ff9bbfe9f3d55babbb0/screenshot1.png)
