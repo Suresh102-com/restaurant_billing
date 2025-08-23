@@ -1,0 +1,26 @@
+[
+    {
+        "mode": "Dine-In",
+        "customer_name": "",
+        "table_no": "",
+        "items": "{'Masala Dosa': {'price': 120.0, 'qty': 1}}",
+        "total": 120.0,
+        "payment_method": "Cash"
+    },
+    {
+        "mode": "Dine-In",
+        "customer_name": "",
+        "table_no": "23",
+        "items": "{'Paneer Tikka': {'price': 220.0, 'qty': 12}, 'Veg Biryani': {'price': 180.0, 'qty': 12}}",
+        "total": 4800.0,
+        "payment_method": "Cash"
+    },
+    {
+        "mode": "Dine-In",
+        "customer_name": "",
+        "table_no": "",
+        "items": "{'Masala Dosa': {'price': 120.0, 'qty': 1}}",
+        "total": 120.0,
+        "payment_method": "Cash"
+    }
+]
