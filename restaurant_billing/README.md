@@ -1,7 +1,9 @@
 -A simple Streamlit-based Restaurant Billing Application that allows restaurants to manage menus, take customer orders, calculate totals, and process payments in a clean UI.
 
 -(Image 1)->
+
 ![image alt](https://github.com/Suresh102-com/restaurant_billing/blob/d049d4998ab13198e4e25ff9bbfe9f3d55babbb0/screenshot1.png)
+
 
 -📋 Menu Management: Default menu loaded; items displayed in the sidebar.
 
@@ -21,6 +23,7 @@
 
 🗄️ Database Integration: Saves completed orders via db_utils.save_order()
 
+
 -Tech Stack->
 
 Python 3.8+
@@ -30,6 +33,7 @@ Streamlit (UI framework)
 Pandas (data handling)
 
 sqlite3 (data store)
+
 
 -✅ Future Enhancements
 
@@ -45,7 +49,9 @@ Multi-user login support.
 
 -(Image 2)->
 
-![image alt](-(Image 1)->
-![image alt](https://github.com/Suresh102-com/restaurant_billing/blob/d049d4998ab13198e4e25ff9bbfe9f3d55babbb0/screenshot2.png))
+![image alt](https://github.com/Suresh102-com/restaurant_billing/blob/d049d4998ab13198e4e25ff9bbfe9f3d55babbb0/screenshot2.png)
 
 
+-(Image 3)->
+
+![image alt](https://github.com/Suresh102-com/restaurant_billing/blob/d049d4998ab13198e4e25ff9bbfe9f3d55babbb0/screenshot3.png)
