@@ -1,0 +1,6 @@
+pandas;
+streamlit;
+razorpay;
+pillow;
+flask;
+matplotlib;
